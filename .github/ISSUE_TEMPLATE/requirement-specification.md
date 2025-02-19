@@ -20,6 +20,8 @@ assignees: ''
 ## 🔍 Description
 <!-- What does this requirement do? Explain its purpose. -->
 
+---
+
 ## ✅ Acceptance Criteria
 - [ ] Clear and well-defined
 - [ ] Feasible and testable
