@@ -21,6 +21,7 @@ Functional requirements define what the system **must do**.
 
 Key functional requirements include:
 - **User Authentication** (Login, Registration, Session Management)
+- **Data Storage** (Securely storing user data, preferences, and task history)
 - **Canvas API Integration** (Retrieving assignments and grades)
 - **Task Prioritization** (Ranking assignments based on urgency and impact)
 - **User Dashboard** (Viewing, managing, and adjusting priorities)
@@ -38,6 +39,7 @@ Key non-functional requirements include:
 - **Performance** (Fast data retrieval, minimal lag)
 - **Scalability** (Support for multiple users)
 - **Maintainability** (Clean architecture, well-documented code)
+- **Accessibility** (WCAG-compliant UI, keyboard navigation, screen reader support)
 
 ---
 
